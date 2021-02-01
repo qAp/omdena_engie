@@ -2,7 +2,9 @@
 
 > Work done for the Omdena-Engie project [Increasing Solar Energy Adoption Through Roof Detection](https://omdena.com/projects/ai-solar/)
 
-This repository consists of Jupyter and Colab Notebooks.  Brief outline:
+This work consists of Jupyter and Colab Notebooks, a summary of which can be found at my blog post [Super-resolving satellite images using ESRGAN](https://personal-record.onrender.com/post/esrgan-satellite-image/).
+
+Brief description of each notebook in this repository:
 
 - [*01_image_preprocessing.ipynb*](https://nbviewer.jupyter.org/github/qAp/omdena_engie/blob/master/omdena_engie/01_image_preprocessing.ipynb)  
   Crop large satellite image into tiles using `geopandas`, `supermercado`, `rio_cogeo`, and `rio_tiler`.
